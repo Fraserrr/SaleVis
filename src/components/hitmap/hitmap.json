@@ -1,0 +1,62 @@
+[
+    {
+        "UpBound": 0.5,
+        "Area": "Africa",
+        "ReturnRate": 0.0
+    },
+    {
+        "UpBound": 0.5,
+        "Area": "Asia",
+        "ReturnRate": 0.0
+    },
+    {
+        "UpBound": 0.5,
+        "Area": "Europe",
+        "ReturnRate": 0.0089
+    },
+    {
+        "UpBound": 1.0,
+        "Area": "Africa",
+        "ReturnRate": 0.0
+    },
+    {
+        "UpBound": 1.0,
+        "Area": "Asia",
+        "ReturnRate": 0.0165
+    },
+    {
+        "UpBound": 1.0,
+        "Area": "Europe",
+        "ReturnRate": 0.0124
+    },
+    {
+        "UpBound": 1.2,
+        "Area": "Africa",
+        "ReturnRate": 0.0
+    },
+    {
+        "UpBound": 1.2,
+        "Area": "Asia",
+        "ReturnRate": 0.0284
+    },
+    {
+        "UpBound": 1.2,
+        "Area": "Europe",
+        "ReturnRate": 0.0169
+    },
+    {
+        "UpBound": 2.0,
+        "Area": "Africa",
+        "ReturnRate": 0.0
+    },
+    {
+        "UpBound": 2.0,
+        "Area": "Asia",
+        "ReturnRate": 0.0336
+    },
+    {
+        "UpBound": 2.0,
+        "Area": "Europe",
+        "ReturnRate": 0.0147
+    }
+]
