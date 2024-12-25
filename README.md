@@ -26,7 +26,7 @@
 
 > 仅列举 yarn 的操作命令，若使用 npm 请参考后续部分文档内容（Getting Started with Create React App）。
 
-进入工程根目录 SaleVis，在终端运行以下命令。
+进入工程根目录 /SaleVis，在终端运行以下命令。
 
 #### 1 安装依赖项
 `yarn install`
@@ -45,9 +45,9 @@
 
 ### 工程目录介绍
 
-- public 为网站基本信息，包含标签页标题及 logo 等；
-- src 包含整个网页的源代码，其中 index 和 App 为页面加载入口，components 目录包含所有组件
-- src/components 目录下，直接包含的 js 文件是构成页面框架的各部分组件，各子目录内为可视化图表，其中 json 文件为数据源
+- /public 为网站基本信息，包含标签页标题及 logo 等；
+- /src 包含整个网页的源代码，其中 index 和 App 为页面加载入口，/components 目录包含所有组件
+- /src/components 目录下，直接包含的 js 文件是构成页面框架的各部分组件，各子目录内为可视化图表，其中 json 文件为数据源
 
 ***
 以下为 Create React App 框架自带的 README 内容：
